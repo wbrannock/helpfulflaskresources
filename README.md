@@ -3,3 +3,7 @@
 
 ### Setting up a new application
 https://dev.to/sahilrajput/install-flask-and-create-your-first-web-application-2dba
+
+
+### Bootstrap templates
+https://startbootstrap.com/templates/
